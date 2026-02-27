@@ -2,7 +2,7 @@
 
 ### 🎥 Introduction Video
 
-https://github.com/user-attachments/assets/your-video-id.mp4
+https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE.mp4
 
 <!-- 
 To add your own video:
